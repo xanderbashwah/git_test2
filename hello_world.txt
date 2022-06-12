@@ -1,3 +1,5 @@
 This is some text to demonstrate some changes being made to a file. 
 
 Testing out VSC as my default text editor so I don't need to write git commit -m "insert your message"
+
+Double checking that git status is how I see changes that have been made in VSC but have not been commited.
